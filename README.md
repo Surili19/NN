@@ -1,2 +1,3 @@
-# NN
-Neural Network building
+# Neural Networks and Deep Learning
+# by DeepLearning.AI
+
